@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <val key="Label.padUnit" value="2,2,2,2" />
+        <val key="Label.padding" value="4.0,4.0,3.0,3.0" />
+        <border key="Task.border" type="underline"  millimeters="false" thickness="2.0" color="13421772" />
+        <val key="Task.padding" value="0.0,2.0,0.0,0.0" />
+        <val key="Title.fgColor" value="ffffff" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="7.0" />
+        <val key="Title.transparency" value="0" />
+        <val key="Toolbar.bgImage" value="todoBar1.jpg" />
+        <val key="Toolbar.bgType" value="33" />
+        <border key="Toolbar.border" type="empty" />
+        <val key="Toolbar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Toolbar.padUnit" value="2,2,2,2" />
+        <val key="Toolbar.padding" value="6.0,3.0,3.0,3.0" />
+        <val key="Toolbar.transparency" value="255" />
+    </theme>
+    <image name="todoBar1.jpg"  />
+</resource>
