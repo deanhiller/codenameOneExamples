@@ -9,6 +9,7 @@ Toolbar {
   background-color: transparent;
   cn1-background-type: cn1-image-scaled-fill;
   background-image: url(images/toolBar2.jpg);
+  cn1-source-dpi: 0;
 }
 
 
@@ -17,6 +18,7 @@ Title {
    font-family:  "native:MainThin";
    font-size: 7mm;
 }
+
 
 Label {
    padding: 3mm 3mm 4mm 4mm;
