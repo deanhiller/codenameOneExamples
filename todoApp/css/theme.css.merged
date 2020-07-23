@@ -1,0 +1,38 @@
+
+/* /Users/dean/workspace/codenameOneExamples/todoApp/css/theme.css */
+#Constants {
+    includeNativeBool: true; 
+}
+
+Toolbar {
+  padding: 3mm 3mm 6mm 3mm;
+  margin: 0px;
+  border: empty;
+  background-color: transparent;
+  cn1-background-type: cn1-image-scaled-fill;
+  background-image: url(images/toolBar2.jpg);
+}
+
+
+Title {
+   color: red;
+   font-family:  "native:MainThin";
+   font-size: 7mm;
+}
+
+Label {
+   padding: 3mm 3mm 4mm 4mm;
+   font-family:  "native:MainLight";
+   font-size: 3.5mm;
+}
+
+Task {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 2px;
+    padding-left: 0px;
+    border-color: cccccc;
+    border-width: 2px;
+    text-decoration: underline;
+}
+/* End /Users/dean/workspace/codenameOneExamples/todoApp/css/theme.css */
